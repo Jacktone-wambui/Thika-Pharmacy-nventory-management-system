@@ -20,7 +20,7 @@
  Follow these steps to install the application.
 1. Clone the Repository
 ```
-git clone https://github.com/MusheAbdulHakim/Pharmacy-management-system.git
+git clone https://github.com/Jacktone-wambui/Thika-Pharmacy-nventory-management-system
 ```
 2. Go to project directory
 
