@@ -183,7 +183,8 @@ Or make a new purchase.
 
 ![Dashboard](screenshots/dashboard.png?raw=true "Dashbaord page")
 
-![Profile](screenshots/user-profile.png?raw=true "User profile")
+![Profile](https://github.com/Jacktone-wambui/Thika-Pharmacy-nventory-management-system/assets/91588670/7b7444a1-5568-4198-a6f9-1493c79862bf)
+
 
 
 ## Contributing
