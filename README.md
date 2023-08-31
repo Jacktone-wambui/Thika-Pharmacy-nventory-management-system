@@ -25,7 +25,7 @@ git clone https://github.com/Jacktone-wambui/Thika-Pharmacy-nventory-management-
 2. Go to project directory
 
 ```
-cd Pharmacy-management-system
+cd Thika-Pharmacy-nventory-management-system
 ```
 
 3. Install packages with composer
