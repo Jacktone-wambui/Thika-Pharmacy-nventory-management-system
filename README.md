@@ -181,7 +181,8 @@ Or make a new purchase.
 
 ![ScreenShot](screenshots/login.png?raw=true "Login page")
 
-![Dashboard](screenshots/dashboard.png?raw=true "Dashbaord page")
+![Dashboard]![dasht](https://github.com/Jacktone-wambui/Thika-Pharmacy-nventory-management-system/assets/91588670/2255a622-f5cd-42d1-bfef-b88de2c37dff)
+
 
 ![Profile](https://github.com/Jacktone-wambui/Thika-Pharmacy-nventory-management-system/assets/91588670/7b7444a1-5568-4198-a6f9-1493c79862bf)
 
