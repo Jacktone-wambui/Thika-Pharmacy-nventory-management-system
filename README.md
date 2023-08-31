@@ -31,7 +31,7 @@ cd Thika-Pharmacy-nventory-management-system
 3. Install packages with composer
 
 ```
-composer install
+composer install --ignore-platform-reqs
 ```
 
 4. Install npm packages with 
