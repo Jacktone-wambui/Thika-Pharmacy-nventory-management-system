@@ -56,7 +56,7 @@ php artisan key:generate
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=doccure
+DB_DATABASE=pharmacy
 DB_USERNAME=root
 DB_PASSWORD=
 ```
