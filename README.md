@@ -179,12 +179,21 @@ http://127.0.0.1:8000
 6. When you are notified of the stock, just update the purchased product quantity.
 Or make a new purchase.
 
-![ScreenShot](screenshots/login.png?raw=true "Login page")
-
-![Dashboard]![dasht](https://github.com/Jacktone-wambui/Thika-Pharmacy-nventory-management-system/assets/91588670/2255a622-f5cd-42d1-bfef-b88de2c37dff)
+![ScreenShot] ![Screenshot_2023-11-08_19_26_05](https://github.com/Jacktone-wambui/Thika-Pharmacy-nventory-management-system/assets/91588670/5138ac6a-a76b-4f1e-8d15-a31ee4cc38f9)
 
 
-![Profile](https://github.com/Jacktone-wambui/Thika-Pharmacy-nventory-management-system/assets/91588670/7b7444a1-5568-4198-a6f9-1493c79862bf)
+![Dashboard]![dasht]![Screenshot_2023-11-08_19_27_10](https://github.com/Jacktone-wambui/Thika-Pharmacy-nventory-management-system/assets/91588670/6585a5fa-9808-4665-8c9e-cc933c13643d)
+
+![Screenshot_2023-11-08_19_27_10](https://github.com/Jacktone-wambui/Thika-Pharmacy-nventory-management-system/assets/91588670/565e4fce-0e7a-43de-a613-ba241cb01f42)
+
+![Screenshot_2023-11-08_19_33_01](https://github.com/Jacktone-wambui/Thika-Pharmacy-nventory-management-system/assets/91588670/01340f93-c5bb-4687-b770-b6063e82a707)
+![Screenshot_2023-11-08_19_33_31](https://github.com/Jacktone-wambui/Thika-Pharmacy-nventory-management-system/assets/91588670/b7b33f49-cf6b-475e-8178-a5cc100ac38d)
+![Screenshot_2023-11-08_19_33_49](https://github.com/Jacktone-wambui/Thika-Pharmacy-nventory-management-system/assets/91588670/f2c91a3f-c5ef-47b6-a59a-e6ba64c10a8f)
+
+
+
+![Profile]![Screenshot_2023-11-08_19_27_36](https://github.com/Jacktone-wambui/Thika-Pharmacy-nventory-management-system/assets/91588670/59e5d7d1-7107-42a1-bced-d721fa85f708)
+
 
 
 
